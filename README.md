@@ -13,6 +13,10 @@
 
 ---
 
+## Demo
+
+[Demo](./assets/demo/demo.gif)
+
 ## Installing
 
 ```bash
