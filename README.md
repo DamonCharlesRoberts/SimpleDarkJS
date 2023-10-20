@@ -15,7 +15,7 @@
 
 ## Demo
 
-[Demo](./assets/demo/demo.gif)
+![Demo](./assets/demo/demo.gif)
 
 ## Installing
 
