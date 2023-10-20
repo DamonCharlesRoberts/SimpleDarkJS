@@ -19,10 +19,12 @@
 
 ## Installing
 
+If you have not used Quarto, I recommend going to the organizations's site to learn some of the basics as well as getting set up. you can do so by going to their [official documentation.](https://quarto.org/)
+
 ```bash
 quarto use template DamonCharlesRoberts/SimpleDarkJS
 ```
-This will install the extension and create an example qmd file that you can use as a starting place for your RevealJS Slides.
+Enter this into your terminal. This will install the extension and create an example qmd file that you can use as a starting place for your RevealJS Slides.
 
 ## Using
 
