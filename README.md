@@ -19,7 +19,7 @@
 
 ## Installing
 
-If you have not used Quarto, I recommend going to the organizations's site to learn some of the basics as well as getting set up. you can do so by going to their [official documentation.](https://quarto.org/)
+If you have not used Quarto, I recommend going to the organizations's site to learn some of the basics as well as getting set up. You can do so by going to their [official documentation.](https://quarto.org/)
 
 ```bash
 quarto use template DamonCharlesRoberts/SimpleDarkJS
